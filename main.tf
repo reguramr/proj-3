@@ -154,6 +154,7 @@ resource "aws_instance" "private-ec2" {
     Name = "Private-vgs"
     Name = "Private-ec2"
     Team = "PROD"
+    Name = "Private"
   }
 }
 
